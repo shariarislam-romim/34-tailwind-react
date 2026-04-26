@@ -1,0 +1,37 @@
+[
+    {
+        "name" : "Basic Plan",
+        "price" : "$29.99/month",
+        "id" : 1,
+        "description" : "Ideal for individuals who want to stay fit with essential gym access.",
+        "features" : [
+            "Access to gym facilities during regular hours",
+            "Free Wi-Fi access"
+        ]
+    },
+    {
+        "name" : "Premium Plan",
+        "price" : "$49.99/month",
+        "popular" : true,
+        "id" : 2,
+        "description" : "Ideal for individuals who want to stay fit with essential gym access.",
+        "features" : [
+            "Access to gym facilities during regular hours",
+            "Unlimited use of cardio equipment",
+            "1 Free personal training session(first month)",
+            "Free Wi-Fi access"
+        ]
+    },
+    {
+        "name" : "Extra Plan",
+        "price" : "$59.99/month",
+        "id" : 3,
+        "description" : "Ideal for individuals who want to stay fit with essential gym access.",
+        "features" : [
+            "Access to gym facilities during regular hours",
+            "Unlimited use of cardio equipment",
+            "1 Free personal training session(first month)",
+            "Free Wi-Fi access"
+        ]
+    }
+]
